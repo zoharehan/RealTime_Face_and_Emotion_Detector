@@ -8,3 +8,5 @@ The model is trained on the "fer2013.csv" dataset which can be found here: https
 <img width="1104" alt="Screen Shot 2020-07-23 at 4 37 30 AM" src="https://user-images.githubusercontent.com/64752194/88242817-d8f8a500-cca7-11ea-9a58-f8fa6252a9c5.png">
 <img width="1104" alt="Screen Shot 2020-07-23 at 4 34 00 AM" src="https://user-images.githubusercontent.com/64752194/88242824-dbf39580-cca7-11ea-955e-9fca7ce9e9f7.png">
 </p>
+/
+Inspirations: Clever Programmer and FreeCodeCamp
