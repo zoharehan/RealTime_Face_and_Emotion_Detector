@@ -1,5 +1,5 @@
 # RealTime_Face_and_Emotion_Detector
-This program is developed using OpenCV and Tensorflow. It involves using a Convolutional Neural Network to detect the emotions on detected faces in real time using the device's webcam! \
+This program is developed using OpenCV and Tensorflow. It involves using a Convolutional Neural Network to classify the emotions on detected faces in real time using the device's webcam! \
 Face Detection was achieved using OpenCV's library file: "haarcascade_frontalface_default.xml" found on their github! \
 The model is trained on the "fer2013.csv" dataset which can be found here: https://www.kaggle.com/deadskull7/fer2013 \
 <p align="center">
